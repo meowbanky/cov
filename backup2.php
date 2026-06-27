@@ -1,8 +1,6 @@
 <?php
 // Call the function with the parameters from the error log as defaults, or usage example
 // Note: This script is designed to be called or included. If run directly, be careful.
-// Based on the error: backup_tables('localhost', 'emmaggic_root', 'Oluwaseyi', 'emmaggic_cofv')
-// We will keep the function definition.
 
 // If standalone execution is needed similar to the error trace:
 // backup_tables('localhost', 'root', '', 'cov'); // Example usage
