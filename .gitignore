@@ -1,3 +1,6 @@
 cov_admin/social_posts/
 .DS_Store
 .vscode/
+sftp.json
+cov_coop_app/
+event-attendance/
